@@ -1,3 +1,1 @@
-# React-Portfolio-Lab
-
-Part 1
+# React Portfolio Lab (Part 1)
