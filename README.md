@@ -8,5 +8,5 @@
 
 <h2>UI Component Hierarchy</h2>
 
-![UI Components]("./UI component hierarchy.png")
+![UI Components](./UI.png)
 
