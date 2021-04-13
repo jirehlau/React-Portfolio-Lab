@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.profileContainer{
+  border: 2px dotted red;
+  width: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+  border-radius: 15%;;
+}
+
+.InfoListComponent{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 2px dotted red;
+}
+
+.FooterComponent{
+  border: 2px dotted red;
+  margin-top: 21%
+}

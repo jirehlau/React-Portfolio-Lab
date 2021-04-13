@@ -2,8 +2,8 @@ import React from 'react';
 
 function InfoList(props) {
     return(
-        <div className='component'>
-            InfoList
+        <div className='InfoListComponent'>
+            {/* <h2>InfoList</h2> */}
             <p>InfoListItem</p>
             <p>InfoListItem</p>
             <p>InfoListItem</p>
