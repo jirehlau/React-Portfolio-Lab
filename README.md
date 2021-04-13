@@ -10,3 +10,9 @@
 
 ![UI Components](./UI.png)
 
+<h2>Technologies used</h2>
+
+* React
+* HTML
+* CSS
+* JavaScript
